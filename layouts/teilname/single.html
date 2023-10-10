@@ -1,0 +1,14 @@
+{{ define "main" }}
+    {{ partial "header" . }}
+    <div class="teilname-header">
+        
+        <h1>{{ .Title}}</h1>
+    </div>
+    <div class="teilname-info">
+        <div class="teilname-info__container">
+            {{.Content}}
+        </div>
+
+    </div>
+    {{ partial "footer" . }}
+{{ end }}

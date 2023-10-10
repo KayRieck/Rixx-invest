@@ -1,0 +1,20 @@
+<section class="teilname section-container" id="teilname">
+    <div class="teilname__container">
+        <h2>Teilname</h2>
+        <h3>We're testing </h3>
+        <div class="teilname-display">
+            {{ range ( where .Site.RegularPages "Section" "teilname").Reverse }}
+            <div class="teilname-display__card">
+                <div class="teilname-display__card-icon">
+                    <i class="{{ .Params.icon }}"></i>
+                </div>
+                <div class="teilname-display__card-info">
+                    <a href="{{ .URL }}"> {{ .Title }}</a>
+                    
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div> 
+
+</section>

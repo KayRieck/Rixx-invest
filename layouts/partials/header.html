@@ -1,0 +1,19 @@
+{{ $indicator := .Params.flag }}
+{{ $target := "landing-page"}}
+<nav class="navbar">
+    <div class="navbar__container {{ if eq  $indicator $target }} navbar__container--main {{ end }}">
+        <a class="logo" href="/">
+            
+            <b>RIXX INVEST AG</b>
+        </a>
+        {{ if eq $indicator $target}}
+        <i class="fas fa-bars hide phone-menu"></i>
+        <ul>
+            <li><a href="hero" class="active">Über uns</a></li>
+            <li><a href="services">Dienstleistungen</a></li>
+            <li><a href="projects">Investor Relations</a></li>
+            <li><a href="contact-us">Kontaktiere uns</a></li>
+        </ul>
+        {{ end }}
+    </div>
+</nav>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on RIXX INVEST AG</title>
+    <link>/services/</link>
+    <description>Recent content in Services on RIXX INVEST AG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 14:01:05 +0300</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Energiefinanzierung </title>
+      <link>/services/service2/</link>
+      <pubDate>Wed, 19 Jul 2023 14:01:05 +0300</pubDate>
+      
+      <guid>/services/service2/</guid>
+      <description>Unser Treasury-Modell Die Finanzierung von Öl-und Gasgeschäften über Banken ist durch die hohen Schwankungen bei Öl und Gas in den vergangenen Jahren schwieriger und zunehmend weniger verlässlich geworden. Wir werden daher die Finanzierung unseres Geschäftes über ein aktives und modernes Treasury Management Modell innerhalb des Unternehmens organisieren. Das Modell wird von einer schweizerischen Großbank betreut werden und das zu Grunde liegenden Konzept liefert seit nunmehr drei Jahren zuverlässig stabile Erträge, die für die Finanzierung des Öl- und Gasausbaus und der Garantiedividende der Vorzugsaktien eingesetzt werden wird.</description>
+    </item>
+    
+    <item>
+      <title> Finanzinnovation </title>
+      <link>/services/service1/</link>
+      <pubDate>Wed, 19 Jul 2023 14:00:50 +0300</pubDate>
+      
+      <guid>/services/service1/</guid>
+      <description>Finanzinnovation Wir sind eine Beteiligungsholding im Finanz- und Energiesektor. Unter dem Dach der RIXX Invest AG finden sich sowohl Fachleute für Private Equity Investments und M&amp;amp;A, Spezialisten für Kapitalmarkttransaktionen als auch Finanzexperten zusammen. Unsere Arbeit wird von der Philosophie geleitet, Risiken zu minimieren und innovativ zu managen, um für unsere Aktionäre hoch-attraktive Vorzugsdividenden zu erwirtschaften.</description>
+    </item>
+    
+  </channel>
+</rss>

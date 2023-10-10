@@ -1,0 +1,27 @@
+<section class="projects section-container" id="projects">
+    <div class="projects__container">
+        <h2> Investor Relations </h2>
+        <h3>Verbindungen zu Investitionsmöglichkeiten schaffen </h3>
+        <div class="projects-display">
+            <div class="projects-display__container">
+                {{ range (where .Site.RegularPages "Section" "projects").Reverse }}
+                <div class="project-card">
+                    <div class="project-card__container">
+                        <div class="project-head">
+                            <a href="{{.URL}}">
+                                <img src="{{ .Params.thumb}}" alt="project">
+                            </a>
+                        </div>
+                        <div class="project-body">
+                            <a class="project-body__title" href="{{ .URL}}">{{ .Title}}</a>
+                            <P class="project-body__description">
+                                {{ truncate 60 .Params.summary }}
+                            </P>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>

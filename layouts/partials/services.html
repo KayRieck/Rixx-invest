@@ -1,0 +1,20 @@
+<section class="services section-container" id="services">
+    <div class="services__container">
+        <h2>Dienstleistungen</h2>
+        <h3>Wir bieten verschiedene Dienstleistungen in der Finanzbranche an </h3>
+        <div class="services-display">
+            {{ range ( where .Site.RegularPages "Section" "services").Reverse }}
+            <div class="services-display__card">
+                <div class="services-display__card-icon">
+                    <i class="{{ .Params.icon }}"></i>
+                </div>
+                <div class="services-display__card-info">
+                    <a href="{{ .URL }}"> {{ .Title }}</a>
+                    <p>{{ .Params.prev}}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div> 
+
+</section>
