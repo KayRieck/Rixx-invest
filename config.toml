@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://rixx-invest-ag-y73l8.ondigitalocean.app/'
 relativeURLs = "true"
 languageCode = 'en-us'
 title = 'RIXX INVEST AG'
