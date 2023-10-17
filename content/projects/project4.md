@@ -1,5 +1,5 @@
 ---
-title: "Wertpapierinformationen"
+title: "Wertpapier informationen"
 date: 2023-07-19T15:47:11+03:00
 draft: false
 author : "Mehdi"

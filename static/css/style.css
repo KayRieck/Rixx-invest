@@ -989,6 +989,7 @@ footer {
     }
     .project-hero__container h1 {
         text-align: center;
+        font-size: 35px; 
     }
     .projects__container>h3{
         text-align: center;
