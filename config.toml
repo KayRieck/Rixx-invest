@@ -1,4 +1,4 @@
-baseURL = 'https://rixx-invest.net//'
+baseURL = 'https://rixx-invest.net/'
 relativeURLs = "true"
 languageCode = 'en-us'
 title = 'RIXX INVEST AG'
