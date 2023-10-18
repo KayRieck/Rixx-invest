@@ -1,5 +1,5 @@
 ---
-title: " Main page / RIXX INVEST AG "
+title: " RIXX INVEST AG "
 date: 2023-07-17T17:58:44+03:00
 draft: false
 author : "Mehdi"
