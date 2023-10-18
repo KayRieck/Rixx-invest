@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on RIXX INVEST AG</title>
-    <link>/projects/</link>
+    <link>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/</link>
     <description>Recent content in Projects on RIXX INVEST AG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 15:47:11 +0300</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 15:47:11 +0300</lastBuildDate><atom:link href="https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wertpapierinformationen</title>
-      <link>/projects/project4/</link>
+      <title>Wertpapier informationen</title>
+      <link>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project4/</link>
       <pubDate>Wed, 19 Jul 2023 15:47:11 +0300</pubDate>
       
-      <guid>/projects/project4/</guid>
+      <guid>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project4/</guid>
       <description>Wertpapier-Informationen Von der BaFin am 20.12.2021 gestattetes Wertpapier-Informationsblatt Zeichnungsschein</description>
     </item>
     
     <item>
       <title>Hauptversammlungen</title>
-      <link>/projects/project3/</link>
+      <link>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project3/</link>
       <pubDate>Wed, 19 Jul 2023 15:47:08 +0300</pubDate>
       
-      <guid>/projects/project3/</guid>
+      <guid>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project3/</guid>
       <description>Außerordentliche Hauptversammlung der RIXX Invest AG am 14. Dezember 2022 um 12:00 Uhr</description>
     </item>
     
     <item>
       <title>Jahresabschlüsse</title>
-      <link>/projects/project2/</link>
+      <link>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project2/</link>
       <pubDate>Wed, 19 Jul 2023 15:47:01 +0300</pubDate>
       
-      <guid>/projects/project2/</guid>
+      <guid>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project2/</guid>
       <description>Jahresabschluss 2020 Veröffentlichung des Jahresabschlusses der RIXX Invest AG</description>
     </item>
     
     <item>
       <title>Ad-Hoc-Mitteilungen</title>
-      <link>/projects/project1/</link>
+      <link>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project1/</link>
       <pubDate>Wed, 19 Jul 2023 15:46:52 +0300</pubDate>
       
-      <guid>/projects/project1/</guid>
+      <guid>https://rixx-invest-ag-y73l8.ondigitalocean.app/projects/project1/</guid>
       <description>RIXX Invest AG: Vorstand und Aufsichtsrat stimmen Erwerb der Rattlesnake Oil and Gas LLC, Dover, Delaware, USA im Wege einer Sachkapitalerhöhung zu</description>
     </item>
     
